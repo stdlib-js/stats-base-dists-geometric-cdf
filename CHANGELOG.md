@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-02)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3630](https://github.com/stdlib-js/stdlib/issues/3630)
+[#3630](https://github.com/stdlib-js/stdlib/issues/3630), [#5716](https://github.com/stdlib-js/stdlib/issues/5716)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7141f46`](https://github.com/stdlib-js/stdlib/commit/7141f4609475f2a689868b295aa84598627d6e78) - **chore:** address commit comments  [(#5738)](https://github.com/stdlib-js/stdlib/pull/5738) _(by Aksshay88, Philipp Burckhardt)_
 -   [`2616db9`](https://github.com/stdlib-js/stdlib/commit/2616db935d792a899cd88d208e06460edfe53723) - **feat:** add C implementation for `stats/base/dists/geometric/cdf` [(#4203)](https://github.com/stdlib-js/stdlib/pull/4203) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`bce4dac`](https://github.com/stdlib-js/stdlib/commit/bce4dac63618cd50985d7875d89933c116cd185d) - **bench:** refactor random number generation in `stats/base/dists/geometric` [(#4931)](https://github.com/stdlib-js/stdlib/pull/4931) _(by Karan Anand, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aksshay88
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
