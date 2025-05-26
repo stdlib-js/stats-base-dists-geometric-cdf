@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-06)
+## Unreleased (2025-05-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`c15b20d`](https://github.com/stdlib-js/stdlib/commit/c15b20d261d1422de5278b068ef3a941d49b059e) - **chore:** address commit comment  [(#5827)](https://github.com/stdlib-js/stdlib/pull/5827) _(by Hemant M Mehta)_
 -   [`7141f46`](https://github.com/stdlib-js/stdlib/commit/7141f4609475f2a689868b295aa84598627d6e78) - **chore:** address commit comments  [(#5738)](https://github.com/stdlib-js/stdlib/pull/5738) _(by Aksshay Balasubramanian, Philipp Burckhardt)_
 -   [`2616db9`](https://github.com/stdlib-js/stdlib/commit/2616db935d792a899cd88d208e06460edfe53723) - **feat:** add C implementation for `stats/base/dists/geometric/cdf` [(#4203)](https://github.com/stdlib-js/stdlib/pull/4203) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
